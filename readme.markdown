@@ -13,4 +13,4 @@ Project
 In this project, you will be adding some css styling to
 an existing html page. The final result will look like:
 
-![alt text](/final_result.png "Final HTML Page")
+![alt text](https://github.com/nisargshah100/Chapter-10/raw/master/final_result.png "Final HTML Page")
