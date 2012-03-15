@@ -11,4 +11,6 @@ Project
 -
 
 In this project, you will be adding some css styling to
-an existing html page. 
+an existing html page. The final result will look like:
+
+![alt text](/final_result.png "Final HTML Page")
